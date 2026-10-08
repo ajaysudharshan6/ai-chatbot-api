@@ -1,6 +1,7 @@
 # AI Chatbot API
 
 A conversational AI API built with FastAPI, featuring memory management and LLM integration.
+NOTE: This is for testing purposes only.
 
 ## Features
 
